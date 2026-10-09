@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MethodsMission1
+namespace Methods_Mission_1
 {
     internal class Program
     {

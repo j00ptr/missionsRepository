@@ -1,16 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MethodsMission1
+namespace Methods_Mission1
 {
     internal class Program
     {
         static void MyMethod(string fname)
         {
-            Console.WriteLine(fname + " Refsnes");
+            Console.Write("Fighters" + fname + ", ");
         }
 
         static void Main(string[] args)
