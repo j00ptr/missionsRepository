@@ -34,13 +34,13 @@ namespace Arrays_BossLevel
                     }
                     break;
                 case 2: //left
-                    for (int i = startX; i < roads.GetLength(0); i++)
+                    for (int i = startX; i > 0; i++)
                     {
                         roads[i, startY] = true;
                     }
                     break;
                 case 3: //up
-                    for (int i = startY; i < roads.GetLength(1); i++)
+                    for (int i = startY; i > 0; i--)
                     {
                         roads[startX, i] = true;
                     }

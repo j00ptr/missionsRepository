@@ -26,7 +26,7 @@ namespace tennisTest
             Console.WriteLine(@"                  /___/     __) |");
             Console.WriteLine(@"                           /____|");
 
-            //version m arm
+            //tidig version m arm
             Console.WriteLine(@"                        ___         ");
             Console.WriteLine(@"                       /   \     /_)");
             Console.WriteLine(@"                      (   __\   /|      ");
@@ -41,7 +41,13 @@ namespace tennisTest
             Console.WriteLine(@"                  /___/     __) |");
             Console.WriteLine(@"                           /____|");
 
-            //version m arm
+
+
+
+
+
+            //slutgiltig ena gubbe:
+
             Console.WriteLine(@"                       ___             ");
             Console.WriteLine(@"                      //  |     /..    ");
             Console.WriteLine(@"                      |   \   \/_)     ");
@@ -58,8 +64,6 @@ namespace tennisTest
             Console.WriteLine(@"                  ( ___)    __) |      ");
             Console.WriteLine(@"                          ( ____)      ");
 
-            //impact version w new leg in front
-
             Console.WriteLine(@"                  ___             ____ ");
             Console.WriteLine(@"                 //  |           /    |");
             Console.WriteLine(@"                 |   \          /     /");
@@ -74,6 +78,16 @@ namespace tennisTest
             Console.WriteLine(@"               / /     \\__           ");   //foot, leg
             Console.WriteLine(@"              | (__    (___ )        ");  //foot
             Console.WriteLine(@"              (____ )                "); //foot
+
+
+
+
+
+
+
+
+
+            //påbörjad annat koncept
 
             Console.WriteLine(@"                  **___                ");
             Console.WriteLine(@"                   *¨¨  )      /..     ");
